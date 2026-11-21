@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -5.5 108 108">
+  <title>Rocks Tech</title>
+  <rect x="0" y="-5.5" width="108" height="108" fill="#f5f5f0"/>
+  <defs>
+    <clipPath id="up"><path d="M0 0H110V37.75L0 70.75Z"/></clipPath>
+    <clipPath id="down"><path d="M0 73.25L110 40.25V110H0Z"/></clipPath>
+  </defs>
+  <path fill="#151a16" fill-rule="evenodd" clip-path="url(#up)" d="M10 8H60L80 20V42L64 54L88 92H64L44 58H32V92H10ZM32 26V41H54L60 37V30L54 26Z"/>
+  <g transform="translate(9.6 -2.9)"><path fill="#151a16" fill-rule="evenodd" clip-path="url(#down)" d="M10 8H60L80 20V42L64 54L88 92H64L44 58H32V92H10ZM32 26V41H54L60 37V30L54 26Z"/></g>
+</svg>
